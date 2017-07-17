@@ -1,8 +1,8 @@
 # Survey
 
 ## Contents
-- Reinforcement Learing
-- Neuroscience
+- [Reinforcement Learning]()
+- [Neuroscience]()
 
 ## 方針
 - 読む予定の論文をissueにまとめた(https://github.com/TMats/survey/issues)
